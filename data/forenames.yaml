@@ -1,10 +1,20 @@
-Andrea: {f: [de, en], m: [it]}
-Andreas: {m: [de, el, sv, no]}
-Axel: {m: [de, sv, da, no]}
-Christian: {m: [de, en, fr, da]}
-Dieter: {m: [de]}
-Linus: {m: [de, sv, en]}
-Oliver: {m: [de, en, fr, da]}
-Roland: {m: [de, en, fr, nl]}
-Stefan: {m: [de, sv, no, pl]}
-Udo: {m: [de]}
+Andrea: {f: [deu, eng], m: [ita]}
+Andreas: {m: [deu, ell, swe, nor]}
+Armand: {m: [fra]}
+Axel: {m: [deu, swe, dan, nor]}
+Christian: {m: [deu, eng, fra, dan]}
+Conrad: {m: [deu]}
+Dieter: {m: [deu]}
+Emil: {m: [deu, swe]}
+François: {m: [fra]}
+Frédéric: {m: [fra]}
+Henricus: {m: [lat]}
+Jakobus: {m: [deu, lat]}
+Jean-Henri: {m: [fra]}
+Linus: {m: [deu, swe, eng]}
+Oliver: {m: [deu, eng, fra, dan]}
+René: {m: [fra]}
+Roland: {m: [deu, eng, fra, nld]}
+Stefan: {m: [deu, swe, nor, pol]}
+Udo: {m: [deu]}
+Wilhelm: {m: [deu]}
