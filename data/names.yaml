@@ -11,13 +11,22 @@ Antoine: {m: [fra]}
 Anton: {m: [deu, rus]}
 Antoon: {m: [nld]}
 Armand: {m: [fra]}
+Arrhenius: {s: [swe]}
 Axel: {m: [deu, swe, dan, nor]}
+Baeyer: {s: [deu]}
+Becquerel: {s: [fra]}
+Behring: {s: [deu]}
 Bertha: {f: [deu, eng]}
+Bjørnson: {s: [nor]}
 Bjørnstjerne: {m: [nor]}
+Buchner: {s: [deu]}
 Camillo: {m: [ita]}
+Carducci: {s: [ita]}
 Charles: {m: [eng, fra]}
 Christian: {m: [deu, eng, fra, dan]}
 Conrad: {m: [deu]}
+Cremer: {s: [eng]}
+Curie: {s: [fra, pol]}
 Dieter: {m: [deu]}
 Eduard: {m: [deu, rus]}
 Élie: {m: [fra]}
@@ -45,6 +54,7 @@ Linus: {m: [deu, swe, eng]}
 Oliver: {m: [deu, eng, fra, dan]}
 René: {m: [fra]}
 Roland: {m: [deu, eng, fra, nld]}
+Schmidt: {s: [deu]}
 Stefan: {m: [deu, swe, nor, pol]}
 Udo: {m: [deu]}
 Wilhelm: {m: [deu]}
