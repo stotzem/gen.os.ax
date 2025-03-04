@@ -1,25 +1,86 @@
-Aaren: {f: [eng]}
-Aarika: {f: [eng]}
-Aaron: {m: [eng, heb]}
-Ab: {m: [eng]}
-Abagael: {f: [eng]}
-Abagail: {f: [eng]}
-Abba: {m: [heb]}
-Abbe: {f: [eng]}
-Abbey: {f: [eng]}
-Abbi: {f: [eng]}
-Abbie: {f: [eng]}
-Abbot: {m: [eng]}
-Abbott: {m: [eng]}
-Abby: {f: [eng]}
-Abbye: {f: [eng]}
-Abigael: {f: [eng]}
-Abigail: {f: [eng, heb]}
-Abigale: {f: [eng]}
-Abra: {f: [eng]}
-Abraham: {m: [heb]}
-Ada: {f: [eng, deu, pol]}
-Adah: {f: [eng, heb]}
+Aaberg: {s: [nor, dan]}
+Aalst: {s: [nld]}
+Aara: {s: [eng]}
+Aaren: {f: [eng], s: [eng]}
+Aarika: {f: [eng], s: [eng]}
+Aaron: {m: [eng, heb], s: [eng, heb]}
+Aaronson: {s: [eng, heb]}
+Ab: {m: [eng], s: [eng]}
+Aba: {s: [eng]}
+Abad: {s: [spa]}
+Abagael: {f: [eng], s: [eng]}
+Abagail: {f: [eng], s: [eng]}
+Abana: {s: [eng]}
+Abate: {s: [ita]}
+Abba: {m: [heb], s: [eng, heb]}
+Abbate: {s: [ita]}
+Abbe: {f: [eng], s: [eng, deu]}
+Abbey: {f: [eng], s: [eng]}
+Abbi: {f: [eng], s: [eng]}
+Abbie: {f: [eng], s: [eng]}
+Abbot: {m: [eng], s: [eng]}
+Abbotsen: {s: [eng]}
+Abbotson: {s: [eng]}
+Abbotsun: {s: [eng]}
+Abbott: {m: [eng], s: [eng]}
+Abbottson: {s: [eng]}
+Abby: {f: [eng], s: [eng]}
+Abbye: {f: [eng], s: [eng]}
+Abdel: {m: [ara], s: [ara]}
+Abdella: {s: [ara]}
+Abdu: {s: [ara]}
+Abdul: {m: [ara], s: [ara]}
+Abdulla: {s: [ara]}
+Abe: {m: [eng], s: [eng, deu]}
+Abebi: {s: [eng]}
+Abel: {m: [eng, spa, fra], s: [eng, deu, fra]}
+Abelard: {m: [fra], s: [eng, fra]}
+Abell: {s: [eng]}
+Abercromby: {s: [eng]}
+Abernathy: {s: [eng]}
+Abernon: {s: [eng]}
+Abert: {s: [deu]}
+Abeu: {m: [por], s: [eng]}
+Abey: {m: [amh], s: [eng]}
+Abie: {m: [eng], s: [eng]}
+Abigael: {f: [eng], s: [eng]}
+Abigail: {f: [eng, heb], s: [eng, heb]}
+Abigale: {f: [eng], s: [eng]}
+Abijah: {s: [eng, heb]}
+Abisha: {s: [eng]}
+Abisia: {s: [eng]}
+Abixah: {s: [eng]}
+Abner: {m: [en, por], s: [eng, heb]}
+Aborn: {s: [eng]}
+Abott: {s: [eng]}
+Abra: {f: [eng], s: [eng]}
+Abraham: {m: [eng, heb, ara], s: [eng, heb]}
+Abrahams: {s: [eng, heb]}
+Abrahamsen: {s: [dan, nor]}
+Abrahan: {m: [spa], s: [eng]}
+Abram: {m: [eng, heb, rus], s: [eng, heb, rus]}
+Abramo: {m: [ita], s: [ita]}
+Abrams: {s: [eng]}
+Abramson: {s: [eng, swe]}
+Abran: {m: [spa], s: [spa]}
+Abroms: {s: [en]}
+Absa: {s: [ara]}
+Absalom: {s: [en, heb]}
+Abshier: {s: [en]}
+Ad: {m: [eng], s: [eng]}
+Ada: {f: [eng, deu, pol], s: [eng, heb]}
+Adabel: {s: [eng]}
+Adabelle: {s: [eng]}
+Adachi: {s: [jpn]}
+Adah: {f: [eng, heb], s: [eng]}
+Adaha: {s: [eng]}
+Adai: {s: [eng]}
+Adaiha: {s: [eng]}
+Adair: {m: [eng], s: [eng]}
+Adal: {s: [eng]}
+Adala: {s: [eng]}
+Adalai: {s: [eng]}
+Adalard: {s: [eng]}
 Adaline: {f: [eng]}
 Adam: {m: [heb, eng, fra, deu]}
 Adan: {m: [spa]}
@@ -56,6 +117,8 @@ Conrad: {m: [deu]}
 Cremer: {s: [eng]}
 Curie: {s: [fra, pol]}
 Dieter: {m: [deu]}
+Ducommun: {s: [fra]}
+Dunant: {s: [fra]}
 Eduard: {m: [deu, rus]}
 Élie: {m: [fra]}
 Emil: {m: [deu, swe]}
@@ -63,10 +126,14 @@ Ernesto: {m: [ita, spa]}
 Felicita: {f: [ita]}
 Felipe: {m: [spa]}
 Ferdinand: {m: [deu, fra]}
+Finsen: {s: [dan]}
+Fischer: {s: [deu]}
 François: {m: [fra]}
 Frédéric: {m: [fra]}
 Friedrich: {m: [deu]}
 Giosuè: {m: [ita]}
+Gobat: {s: [fra]}
+Golgi: {s: [ita]}
 Heinrich: {m: [deu]}
 Hendrik: {m: [nld]}
 Henri: {m: [fra]}
@@ -80,21 +147,54 @@ Johann: {m: [deu]}
 John: {m: [eng]}
 José: {m: [spa, por]}
 Joseph: {m: [eng, fra, deu]}
+Kiplin: {s: [eng]}
+Kipling: {s: [eng]}
+Koch: {s: [deu]}
+Laveran: {s: [fra]}
 Linus: {m: [deu, swe, eng]}
+Lorentz: {s: [deu, nld]}
 Louis: {m: [fra, eng]}
 Marie: {f: [fra, deu]}
 Martinius: {m: [nor]}
+Michelson: {s: [eng]}
+Mistral: {s: [spa]}
+Moissan: {s: [fra]}
+Mommsen: {s: [deu]}
+Moneta: {s: [ita]}
 Niels: {m: [dan]}
 Oliver: {m: [deu, eng, fra, dan]}
+Passy: {s: [fra]}
+Pawlow: {s: [rus]}
 Philipp: {m: [deu]}
 Pierre: {m: [fra]}
 Pieter: {m: [nld]}
 Pius: {m: [deu]}
+Prudhomme: {s: [fra]}
 Ramón: {m: [spa]}
+Ramsay: {s: [eng]}
 Randal: {m: [eng]}
+Renault: {s: [fra]}
 René: {m: [fra]}
+Robert: {m: [eng, deu, fra]}
 Roland: {m: [deu, eng, fra, nld]}
+Ronald: {m: [eng]}
+Röntgen: {s: [deu]}
+Roosevelt: {s: [eng]}
+Ross: {s: [eng]}
+Rudyard: {m: [eng]}
+Ryberg: {s: [swe]}
+Santiago: {m: [spa]}
 Schmidt: {s: [deu]}
+Sienkiewicz: {s: [pol]}
+Sophia: {f: [eng, deu, ell]}
 Stefan: {m: [deu, swe, nor, pol]}
+Strutt: {s: [eng]}
+Suttner: {s: [deu]}
+Svante: {m: [swe]}
+Teodoro: {m: [ita, spa]}
+Theodor: {m: [deu]}
+Theodore: {m: [eng]}
+Thomson: {s: [eng]}
 Udo: {m: [deu]}
 Wilhelm: {m: [deu]}
+William: {m: [eng]}
