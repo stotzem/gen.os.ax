@@ -81,14 +81,64 @@ Adal: {s: [eng]}
 Adala: {s: [eng]}
 Adalai: {s: [eng]}
 Adalard: {s: [eng]}
-Adaline: {f: [eng]}
-Adam: {m: [heb, eng, fra, deu]}
-Adan: {m: [spa]}
-Adara: {f: [eng]}
-Adda: {f: [eng]}
-Addi: {f: [eng]}
-Addia: {f: [eng]}
-Addie: {f: [eng]}
+Adalbert: {s: [deu]}
+Adalheid: {s: [deu]}
+Adali: {s: [eng]}
+Adalia: {s: [eng]}
+Adaliah: {s: [eng]}
+Adalie: {s: [eng]}
+Adaline: {f: [eng], s: [eng]}
+Adall: {s: [eng]}
+Adallard: {s: [eng]}
+Adam: {m: [ces, deu, eng, heb, pol], s: [eng, heb, pol, ces]}
+Adama: {s: [eng]}
+Adamec: {s: [ces]}
+Adamek: {s: [pol]}
+Adamik: {s: [pol]}
+Adamina: {s: [eng]}
+Adaminah: {s: [eng]}
+Adamis: {s: [eng]}
+Adamo: {m: [ita], s: [ita]}
+Adamok: {s: [pol]}
+Adams: {m: [eng], s: [eng]}
+Adamsen: {s: [dan]}
+Adamski: {s: [pol]}
+Adamson: {s: [eng]}
+Adamsun: {s: [eng]}
+Adan: {m: [spa], s: [spa]}
+Adao: {s: [por]}
+Adar: {s: [heb]}
+Adara: {f: [eng], s: [eng]}
+Adaurd: {s: [eng]}
+Aday: {s: [eng]}
+Adda: {f: [eng], s: [eng]}
+Addam: {s: [eng]}
+Addi: {f: [eng], s: [eng]}
+Addia: {f: [eng], s: [eng]}
+Addie: {f: [eng], s: [eng]}
+Addiego: {s: [spa]}
+Addiel: {s: [eng]}
+Addis: {s: [eng]}
+Addison: {f: [eng], m: [eng], s: [eng]}
+Addy: {f: [eng], s: [eng]}
+Ade: {f: [eng], s: [eng]}
+Adebayo: {s: [yor]}
+Adel: {m: [ara], s: [ara]}
+Adela: {f: [spa, pol], s: [spa, pol]}
+Adelaida: {f: [spa], s: [spa]}
+Adelaide: {f: [eng, fra], s: [eng, fra]}
+Adelaja: {s: [pol]}
+Adelbert: {m: [deu]}
+Adele: {f: [eng, fra, ita]}
+Adelheid: {f: [deu]}
+Adelia: {s: [eng]}
+Adelice: {f: [fra], s: [fra]}
+Adelina: {f: [spa, ita, por], s: [spa, ita, por]}
+Adelind: {f: [deu]}
+Adeline: {f: [fra], s: [fra]}
+Adella: {f: [eng], s: [eng]}
+Adelle: {f: [eng]}
+Adelpho: {s: [eng]}
 Adolf: {m: [deu]}
 Albert: {m: [deu, eng, fra]}
 Aleksander: {m: [pol, rus]}
