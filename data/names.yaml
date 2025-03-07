@@ -1,9 +1,15 @@
 Aaberg: {s: [nor, dan]}
+Aadam: {m: [ara]}
+Aaden: {m: [eng]}
+Aaliyah: {f: [ara]}
 Aalst: {s: [nld]}
+Aaminah: {f: [ara]}
 Aara: {s: [eng]}
+Aarav: {m: [hin]}
 Aaren: {f: [eng], s: [eng]}
 Aarika: {f: [eng], s: [eng]}
 Aaron: {m: [eng, heb], s: [eng, heb]}
+Aarone: {m: [ita]}
 Aaronson: {s: [eng, heb]}
 Ab: {m: [eng], s: [eng]}
 Aba: {s: [eng]}
@@ -13,28 +19,43 @@ Abagail: {f: [eng], s: [eng]}
 Abana: {s: [eng]}
 Abate: {s: [ita]}
 Abba: {m: [heb], s: [eng, heb]}
+Abbas: {s: [ara]}
 Abbate: {s: [ita]}
 Abbe: {f: [eng], s: [eng, deu]}
 Abbey: {f: [eng], s: [eng]}
+Abbeye: {f: [eng]}
 Abbi: {f: [eng], s: [eng]}
 Abbie: {f: [eng], s: [eng]}
+Abbiee: {f: [eng]}
+Abbigail: {f: [eng]}
 Abbot: {m: [eng], s: [eng]}
 Abbotsen: {s: [eng]}
 Abbotson: {s: [eng]}
 Abbotsun: {s: [eng]}
 Abbott: {m: [eng], s: [eng]}
+Abbotte: {f: [eng]}
 Abbottson: {s: [eng]}
 Abby: {f: [eng], s: [eng]}
 Abbye: {f: [eng], s: [eng]}
 Abdel: {m: [ara], s: [ara]}
 Abdella: {s: [ara]}
+Abdi: {s: [som]}
+Abdiele: {m: [ita]}
+Abdirahman: {m: [som]}
 Abdu: {s: [ara]}
 Abdul: {m: [ara], s: [ara]}
+Abdule: {m: [ara]}
 Abdulla: {s: [ara]}
+Abdullah: {m: [ara], s: [ara]}
+Abdullahe: {m: [ara]}
+Abdullahi: {s: [som]}
 Abe: {m: [eng], s: [eng, deu]}
 Abebi: {s: [eng]}
+Abee: {f: [eng]}
 Abel: {m: [eng, spa, fra], s: [eng, deu, fra]}
 Abelard: {m: [fra], s: [eng, fra]}
+Abelardoe: {m: [ita]}
+Abele: {m: [ita]}
 Abell: {s: [eng]}
 Abercromby: {s: [eng]}
 Abernathy: {s: [eng]}
@@ -42,31 +63,60 @@ Abernon: {s: [eng]}
 Abert: {s: [deu]}
 Abeu: {m: [por], s: [eng]}
 Abey: {m: [amh], s: [eng]}
+Abi: {f: [eng]}
 Abie: {m: [eng], s: [eng]}
+Abiee: {f: [eng]}
 Abigael: {f: [eng], s: [eng]}
 Abigail: {f: [eng, heb], s: [eng, heb]}
+Abigaile: {f: [eng]}
 Abigale: {f: [eng], s: [eng]}
+Abigayle: {f: [eng]}
 Abijah: {s: [eng, heb]}
 Abisha: {s: [eng]}
 Abisia: {s: [eng]}
 Abixah: {s: [eng]}
 Abner: {m: [en, por], s: [eng, heb]}
+Abnere: {m: [eng]}
 Aborn: {s: [eng]}
 Abott: {s: [eng]}
 Abra: {f: [eng], s: [eng]}
 Abraham: {m: [eng, heb, ara], s: [eng, heb]}
+Abrahame: {m: [eng]}
 Abrahams: {s: [eng, heb]}
 Abrahamsen: {s: [dan, nor]}
 Abrahan: {m: [spa], s: [eng]}
 Abram: {m: [eng, heb, rus], s: [eng, heb, rus]}
+Abrame: {m: [eng]}
 Abramo: {m: [ita], s: [ita]}
 Abrams: {s: [eng]}
 Abramson: {s: [eng, swe]}
 Abran: {m: [spa], s: [spa]}
+Abril: {f: [spa]}
 Abroms: {s: [en]}
 Absa: {s: [ara]}
 Absalom: {s: [en, heb]}
 Abshier: {s: [en]}
+Acacia: {s: [eng]}
+Acalia: {s: [eng]}
+Accalia: {s: [eng]}
+Ace: {m: [eng], s: [eng]}
+Acee: {m: [eng]}
+Acey: {s: [eng]}
+Aceye: {m: [eng]}
+Acherman: {s: [deu]}
+Achilles: {s: [ell]}
+Achorn: {s: [eng]}
+Achsahe: {f: [heb]}
+Acie: {s: [eng]}
+Aciee: {f: [eng]}
+Acima: {s: [spa]}
+Acker: {s: [deu, eng]}
+Ackerley: {s: [eng]}
+Ackerman: {s: [eng, deu]}
+Ackermann: {s: [deu]}
+Ackler: {s: [eng]}
+Ackley: {s: [eng]}
+Acquah: {s: [aka]}
 Ad: {m: [eng], s: [eng]}
 Ada: {f: [eng, deu, pol], s: [eng, heb]}
 Adabel: {s: [eng]}
