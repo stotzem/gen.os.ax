@@ -117,13 +117,17 @@ Ackermann: {s: [deu]}
 Ackler: {s: [eng]}
 Ackley: {s: [eng]}
 Acquah: {s: [aka]}
+Acus: {s: [eng]}
+Acye: {f: [eng]}
 Ad: {m: [eng], s: [eng]}
-Ada: {f: [eng, deu, pol], s: [eng, heb]}
+Ada: {f: [eng, deu, heb, pol], s: [eng, heb]}
 Adabel: {s: [eng]}
 Adabelle: {s: [eng]}
 Adachi: {s: [jpn]}
+Adae: {f: [eng]}
 Adah: {f: [eng, heb], s: [eng]}
 Adaha: {s: [eng]}
+Adahe: {f: [heb]}
 Adai: {s: [eng]}
 Adaiha: {s: [eng]}
 Adair: {m: [eng], s: [eng]}
@@ -132,16 +136,21 @@ Adala: {s: [eng]}
 Adalai: {s: [eng]}
 Adalard: {s: [eng]}
 Adalbert: {s: [deu]}
+Adalbertoe: {m: [spa]}
 Adalheid: {s: [deu]}
 Adali: {s: [eng]}
 Adalia: {s: [eng]}
 Adaliah: {s: [eng]}
 Adalie: {s: [eng]}
 Adaline: {f: [eng], s: [eng]}
+Adalinee: {f: [eng]}
 Adall: {s: [eng]}
 Adallard: {s: [eng]}
+Adalyn: {f: [eng]}
+Adalynn: {f: [eng]}
 Adam: {m: [ces, deu, eng, heb, pol], s: [eng, heb, pol, ces]}
 Adama: {s: [eng]}
+Adamaris: {f: [spa]}
 Adamec: {s: [ces]}
 Adamek: {s: [pol]}
 Adamik: {s: [pol]}
@@ -151,46 +160,69 @@ Adamis: {s: [eng]}
 Adamo: {m: [ita], s: [ita]}
 Adamok: {s: [pol]}
 Adams: {m: [eng], s: [eng]}
+Adamse: {m: [eng]}
 Adamsen: {s: [dan]}
 Adamski: {s: [pol]}
 Adamson: {s: [eng]}
 Adamsun: {s: [eng]}
 Adan: {m: [spa], s: [spa]}
+Adane: {m: [spa]}
 Adao: {s: [por]}
 Adar: {s: [heb]}
 Adara: {f: [eng], s: [eng]}
 Adaurd: {s: [eng]}
 Aday: {s: [eng]}
 Adda: {f: [eng], s: [eng]}
+Addae: {f: [eng]}
 Addam: {s: [eng]}
+Adde: {f: [eng]}
 Addi: {f: [eng], s: [eng]}
 Addia: {f: [eng], s: [eng]}
 Addie: {f: [eng], s: [eng]}
+Addiee: {f: [eng]}
 Addiego: {s: [spa]}
 Addiel: {s: [eng]}
 Addis: {s: [eng]}
-Addison: {f: [eng], m: [eng], s: [eng]}
+Addison: {s: [eng]}
+Addisone: {f: [eng]}
+Addisyn: {f: [eng]}
 Addy: {f: [eng], s: [eng]}
+Addyson: {f: [eng]}
 Ade: {f: [eng], s: [eng]}
 Adebayo: {s: [yor]}
 Adel: {m: [ara], s: [ara]}
 Adela: {f: [spa, pol], s: [spa, pol]}
+Adelae: {f: [spa]}
 Adelaida: {f: [spa], s: [spa]}
-Adelaide: {f: [eng, fra], s: [eng, fra]}
+Adelaide: {f: [eng, deu, fra], s: [eng, fra]}
+Adelaidee: {f: [eng]}
 Adelaja: {s: [pol]}
+Adelard: {m: [eng]}
+Adelarde: {m: [eng]}
 Adelbert: {m: [deu]}
-Adele: {f: [eng, fra, ita]}
+Adelberte: {m: [deu]}
+Adele: {f: [eng, deu, fra, ita]}
+Adelee: {f: [eng]}
 Adelheid: {f: [deu]}
-Adelia: {s: [eng]}
+Adelia: {f: [spa, eng], s: [eng]}
+Adeliae: {f: [spa]}
 Adelice: {f: [fra], s: [fra]}
 Adelina: {f: [spa, ita, por], s: [spa, ita, por]}
+Adelinae: {f: [spa]}
 Adelind: {f: [deu]}
-Adeline: {f: [fra], s: [fra]}
+Adeline: {f: [eng, fra], s: [fra]}
+Adelinee: {f: [eng]}
+Adell: {f: [eng]}
 Adella: {f: [eng], s: [eng]}
+Adellae: {f: [eng]}
 Adelle: {f: [eng]}
+Adellee: {f: [eng]}
 Adelpho: {s: [eng]}
 Adelric: {s: [eng]}
+Adelyn: {f: [eng]}
+Aden: {m: [eng]}
 Adena: {f: [eng], s: [eng]}
+Adene: {m: [eng]}
 Ader: {s: [eng]}
 Adest: {s: [eng]}
 Adey: {f: [eng], s: [eng]}
@@ -202,14 +234,21 @@ Adiana: {f: [spa], s: [spa]}
 Adiel: {s: [heb]}
 Adiell: {s: [eng]}
 Adigun: {s: [yor]}
+Adil: {m: [ara]}
 Adila: {s: [ara]}
+Adilenee: {f: [spa]}
 Adim: {s: [eng]}
 Adin: {s: [heb]}
 Adina: {f: [heb, ron], s: [heb, ron]}
-Adine: {s: [eng]}
+Adinae: {f: [eng]}
+Adine: {f: [eng], s: [eng]}
 Adis: {s: [eng]}
+Adison: {f: [eng]}
+Aditya: {m: [hin]}
+Adityae: {f: [hin]}
 Adkins: {s: [eng]}
 Adlai: {m: [heb], s: [heb]}
+Adlaie: {m: [heb]}
 Adlar: {s: [eng]}
 Adlare: {s: [eng]}
 Adlay: {s: [eng]}
@@ -217,29 +256,40 @@ Adlee: {s: [eng]}
 Adlei: {s: [eng]}
 Adler: {s: [deu]}
 Adley: {s: [eng]}
+Adlinee: {f: [eng]}
+Admiral: {m: [eng]}
 Adna: {s: [eng]}
 Adnah: {s: [eng]}
+Adnan: {m: [ara]}
 Adne: {s: [eng]}
 Adnopoz: {s: [eng]}
 Ado: {m: [jpn], s: [jpn]}
 Adolf: {m: [deu, ces, pol], s: [deu, ces, pol]}
-Adolfo: {s: [ita, spa]}
+Adolfe: {m: [deu]}
+Adolfo: {m: [spa, ita], s: [ita, spa]}
+Adolfoe: {m: [spa]}
 Adolph: {m: [eng, deu], s: [eng, deu]}
 Adolphe: {m: [fra], s: [fra]}
 Adolpho: {m: [ita], s: [ita]}
 Adolphus: {m: [eng], s: [eng]}
+Adolphuse: {m: [eng]}
 Adon: {s: [heb]}
-Adonis: {s: [eng]}
+Adonis: {m: [ell], s: [eng]}
+Adonise: {m: [ell]}
 Adora: {f: [eng], s: [eng]}
 Adore: {f: [eng], s: [eng]}
 Adoree: {f: [eng], s: [eng]}
 Adorl: {s: [eng]}
 Adorne: {f: [eng], s: [eng]}
+Adraine: {f: [eng]}
 Adrea: {f: [eng], s: [eng]}
 Adrell: {s: [eng]}
 Adria: {f: [eng], s: [eng]}
+Adriae: {f: [eng]}
 Adriaens: {m: [nld], s: [nld]}
 Adrial: {s: [eng]}
+Adrian: {m: [eng, spa, ron, pol, rum], s: [eng, spa, ron, pol, rum]}
+Adriana: {f: [spa, por, ron, pol, rum], s: [spa, por, ron, pol, rum]}
 Albert: {m: [deu, eng, fra]}
 Aleksander: {m: [pol, rus]}
 Alois: {m: [deu]}
