@@ -1,12 +1,26 @@
+Abebe: {s: [amh]}
+Abera: {s: [amh]}
 Adriaanse: {s: [afr]}
 Alberts: {s: [afr]}
 Albertyn: {s: [afr]}
+Alemayehu: {s: [amh]}
+Alemu: {s: [amh]}
 Argun: {s: [abk]}
+Asfaw: {s: [amh]}
+Ashenafi: {s: [amh]}
+Assefa: {s: [amh]}
+Aweke: {s: [amh]}
+Ayele: {s: [amh]}
 Badenhorst: {s: [afr]}
 Bakkes: {s: [afr]}
+Balcha: {s: [amh]}
 Barnard: {s: [afr]}
 Basson: {s: [afr]}
+Bekele: {s: [amh]}
 Bekker: {s: [afr]}
+Berhanu: {s: [amh]}
+Bezabeh: {s: [amh]}
+Bikila: {s: [amh]}
 Blaauw: {s: [afr]}
 Blignault: {s: [afr]}
 Blignaut: {s: [afr]}
@@ -25,19 +39,58 @@ Coetzee: {s: [afr]}
 Coetzer: {s: [afr]}
 Cronje: {s: [afr]}
 Cruywagen: {s: [afr]}
+Daba: {s: [amh]}
+Dawit: {s: [amh]}
+de Beer: {s: [afr]}
+de Bruyn: {s: [afr]}
 Degenaar: {s: [afr]}
+de Jager: {s: [afr]}
+Dejene: {s: [amh]}
+de Jongh: {s: [afr]}
+de Klerk: {s: [afr]}
+de Kock: {s: [afr]}
+de Kok: {s: [afr]}
+de Lange: {s: [afr]}
+Demissie: {s: [amh]}
+Deressa: {s: [amh]}
+Deriba: {s: [amh]}
+Desalegn: {s: [amh]}
+Desta: {s: [amh]}
+de Villiers: {s: [afr]}
+de Vink: {s: [afr]}
 Devos: {s: [afr]}
+de Vries: {s: [afr]}
+de Waal: {s: [afr]}
+de Wet: {s: [afr]}
 Duiker: {s: [afr]}
+du Plessis: {s: [afr]}
+du Preez: {s: [afr]}
+du Toit: {s: [afr]}
+Ejigu: {s: [amh]}
 Engelbrecht: {s: [afr]}
+Eshete: {s: [amh]}
+Eyob: {s: [amh]}
 Ferreira: {s: [afr]}
+Fikadu: {s: [amh]}
 Fouché: {s: [afr]}
 Fourie: {s: [afr]}
+Gebre: {s: [amh]}
+Gemechu: {s: [amh]}
+Getachew: {s: [amh]}
+Getahun: {s: [amh]}
+Getaneh: {s: [amh]}
+Gezahegne: {s: [amh]}
+Ghebremariam: {s: [amh]}
+Girma: {s: [amh]}
 Goosen: {s: [afr]}
 Grobbelaar: {s: [afr]}
 Grové: {s: [afr]}
 Haarhoff: {s: [afr]}
+Haile: {s: [amh]}
+Hailu: {s: [amh]}
 Hanekom: {s: [afr]}
 Hauptfleisch: {s: [afr]}
+Henok: {s: [amh]}
 Hertzog: {s: [afr]}
 Heyns: {s: [afr]}
 Heystek: {s: [afr]}
@@ -45,12 +98,16 @@ Hough: {s: [afr]}
 Immelmann: {s: [afr]}
 Janse van Rensburg: {s: [afr]}
 Janse van Vuuren: {s: [afr]}
+Jifar: {s: [amh]}
 Jonker: {s: [afr]}
 Jordaan: {s: [afr]}
 Joubert: {s: [afr]}
 Karelse: {s: [afr]}
+Kebede: {s: [amh]}
 Kharazia: {s: [abk]}
 Khutaba: {s: [abk]}
+Kidane: {s: [amh]}
+Kiros: {s: [amh]}
 Klerk: {s: [afr]}
 Kloppers: {s: [afr]}
 Kotze: {s: [afr]}
@@ -61,6 +118,9 @@ Kuiper: {s: [afr]}
 Labuschage: {s: [afr]}
 Langenhoven: {s: [afr]}
 Laubscher: {s: [afr]}
+Legesse: {s: [amh]}
+le Grange: {s: [afr]}
+le Roux: {s: [afr]}
 Leroux: {s: [afr]}
 Liebenberg: {s: [afr]}
 Lombard: {s: [afr]}
@@ -74,16 +134,26 @@ Malherbe: {s: [afr]}
 Mandela: {s: [afr]}
 Marais: {s: [afr]}
 Mbeki: {s: [afr]}
+Mehari: {s: [amh]}
 Meintjes: {s: [afr]}
 Meiring: {s: [afr]}
+Mekonnen: {s: [amh]}
+Mengistu: {s: [amh]}
+Merga: {s: [amh]}
+Meseret: {s: [amh]}
+Mesfin: {s: [amh]}
 Minnaar: {s: [afr]}
+Moges: {s: [amh]}
 Momberg: {s: [afr]}
 Moolman: {s: [afr]}
 Morkel: {s: [afr]}
 Mostert: {s: [afr]}
 Mulder: {s: [afr]}
+Mulugeta: {s: [amh]}
 Naude: {s: [afr]}
 Naudé: {s: [afr]}
+Negash: {s: [amh]}
+Negussie: {s: [amh]}
 Nel: {s: [afr]}
 Nieuwenhuizen: {s: [afr]}
 Nieuwoudt: {s: [afr]}
@@ -94,8 +164,8 @@ Oosthuizen: {s: [afr]}
 Otyrba: {s: [abk]}
 Pienaar: {s: [afr]}
 Piennaar: {s: [afr]}
-Pieterse: {s: [afr]}
 Pietersen: {s: [afr]}
+Pieterse: {s: [afr]}
 Pilia: {s: [abk]}
 Pistorius: {s: [afr]}
 Plessis: {s: [afr]}
@@ -105,6 +175,7 @@ Prinsloo: {s: [afr]}
 Ramaphosa: {s: [afr]}
 Rensburg: {s: [afr]}
 Retief: {s: [afr]}
+Roba: {s: [amh]}
 Rossouw: {s: [afr]}
 Rothschild: {s: [afr]}
 Scheepers: {s: [afr]}
@@ -112,6 +183,7 @@ Schoeman: {s: [afr]}
 Schoenmaker: {s: [afr]}
 Schuster: {s: [afr]}
 Schutte: {s: [afr]}
+Sisay: {s: [amh]}
 Smit: {s: [afr]}
 Smuts: {s: [afr]}
 Snyman: {s: [afr]}
@@ -123,53 +195,45 @@ Steytler: {s: [afr]}
 Strydom: {s: [afr]}
 Swanepoel: {s: [afr]}
 Swart: {s: [afr]}
+Tadesse: {s: [amh]}
+Tafa: {s: [amh]}
 Taljaard: {s: [afr]}
 Taljard: {s: [afr]}
+Tamrat: {s: [amh]}
 Tarba: {s: [abk]}
+Tariku: {s: [amh]}
+Taye: {s: [amh]}
 Terblance: {s: [afr]}
 Terre'Blance: {s: [afr]}
+Tesfamariam: {s: [amh]}
+Tesfaye: {s: [amh]}
+Teshome: {s: [amh]}
 Theron: {s: [afr]}
 Theunissen: {s: [afr]}
 Theuns: {s: [afr]}
+Tigist: {s: [amh]}
+Tilahun: {s: [amh]}
+Tola: {s: [amh]}
+Tsegay: {s: [amh]}
 Tsveiba: {s: [abk]}
+Tufa: {s: [amh]}
 Uys: {s: [afr]}
-Venter: {s: [afr]}
-Verdoorn: {s: [afr]}
-Vermaak: {s: [afr]}
-Vermeulen: {s: [afr]}
-Verster: {s: [afr]}
-Verwoerd: {s: [afr]}
-Viljoen: {s: [afr]}
-Visagie: {s: [afr]}
-Visser: {s: [afr]}
-Viviers: {s: [afr]}
-Vlok: {s: [afr]}
-Vorster: {s: [afr]}
-Wessels: {s: [afr]}
-Witbooi: {s: [afr]}
-Wolhuter: {s: [afr]}
-Wolmarans: {s: [afr]}
-Zuma: {s: [afr]}
-de Beer: {s: [afr]}
-de Bruyn: {s: [afr]}
-de Jager: {s: [afr]}
-de Jongh: {s: [afr]}
-de Klerk: {s: [afr]}
-de Kock: {s: [afr]}
-de Kok: {s: [afr]}
-de Lange: {s: [afr]}
-de Villiers: {s: [afr]}
-de Vink: {s: [afr]}
-de Vries: {s: [afr]}
-de Waal: {s: [afr]}
-de Wet: {s: [afr]}
-du Plessis: {s: [afr]}
-du Preez: {s: [afr]}
-du Toit: {s: [afr]}
-le Grange: {s: [afr]}
-le Roux: {s: [afr]}
 van Biljon: {s: [afr]}
 van Blerk: {s: [afr]}
+van de Merve: {s: [afr]}
+van den Bergh: {s: [afr]}
+van den Berg: {s: [afr]}
+van den Heever: {s: [afr]}
+van der Byl: {s: [afr]}
+van der Deventer: {s: [afr]}
+van der Knaap: {s: [afr]}
+van der Linde: {s: [afr]}
+van der Merwe: {s: [afr]}
+van der Sandt: {s: [afr]}
+van der Vyver: {s: [afr]}
+van der Walt: {s: [afr]}
+van der Watt: {s: [afr]}
+van der Westhuizen: {s: [afr]}
 van Dyk: {s: [afr]}
 van Graan: {s: [afr]}
 van Heerden: {s: [afr]}
@@ -188,17 +252,26 @@ van Vollenhoven: {s: [afr]}
 van Vuuren: {s: [afr]}
 van Wyk: {s: [afr]}
 van Zyl: {s: [afr]}
-van de Merve: {s: [afr]}
-van den Berg: {s: [afr]}
-van den Bergh: {s: [afr]}
-van den Heever: {s: [afr]}
-van der Byl: {s: [afr]}
-van der Deventer: {s: [afr]}
-van der Knaap: {s: [afr]}
-van der Linde: {s: [afr]}
-van der Merwe: {s: [afr]}
-van der Sandt: {s: [afr]}
-van der Vyver: {s: [afr]}
-van der Walt: {s: [afr]}
-van der Watt: {s: [afr]}
-van der Westhuizen: {s: [afr]}
+Venter: {s: [afr]}
+Verdoorn: {s: [afr]}
+Vermaak: {s: [afr]}
+Vermeulen: {s: [afr]}
+Verster: {s: [afr]}
+Verwoerd: {s: [afr]}
+Viljoen: {s: [afr]}
+Visagie: {s: [afr]}
+Visser: {s: [afr]}
+Viviers: {s: [afr]}
+Vlok: {s: [afr]}
+Vorster: {s: [afr]}
+Wessels: {s: [afr]}
+Witbooi: {s: [afr]}
+Wodajo: {s: [amh]}
+Woldemariam: {s: [amh]}
+Woldemichael: {s: [amh]}
+Wolde: {s: [amh]}
+Wolhuter: {s: [afr]}
+Wolmarans: {s: [afr]}
+Worke: {s: [amh]}
+Zewde: {s: [amh]}
+Zuma: {s: [afr]}
