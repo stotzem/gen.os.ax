@@ -1,18 +1,27 @@
 Baba: {s: [ara]}
+Babadzhanian: {s: [arm]}
+Babayan: {s: [arm]}
+Badalyan: {s: [arm]}
 Badat: {s: [ara]}
 Badawi: {s: [ara]}
 Badenhorst: {s: [afr]}
 Badir: {s: [ara]}
-Badri: {s: [ara]}
 Badr: {s: [ara]}
+Badri: {s: [ara]}
 Baghdadi: {s: [ara]}
+Baghdasarian: {s: [arm]}
+Baghramian: {s: [arm]}
+Bagramian: {s: [arm]}
+Bagramyan: {s: [arm]}
 Baha: {s: [ara]}
 Bahij: {s: [ara]}
 Bahjat: {s: [ara]}
 Bahri: {s: [ara]}
+Bajakian: {s: [arm]}
 Bakir: {s: [ara]}
 Bakkal: {s: [ara]}
 Bakkes: {s: [afr]}
+Balakian: {s: [arm]}
 Balcha: {s: [amh]}
 Barad: {s: [ara]}
 Barakat: {s: [ara]}
@@ -20,6 +29,10 @@ Barghouti: {s: [ara]}
 Barjas: {s: [ara]}
 Barmada: {s: [ara]}
 Barnard: {s: [afr]}
+Baronian: {s: [arm]}
+Barsamian: {s: [arm]}
+Barsamyan: {s: [arm]}
+Barseghyan: {s: [arm]}
 Barzegar: {s: [ara]}
 Bashar: {s: [ara]}
 Bashir: {s: [ara]}
@@ -27,21 +40,23 @@ Basma: {s: [ara]}
 Basri: {s: [ara]}
 Basson: {s: [afr]}
 Batma: {s: [ara]}
+Batzaria: {s: [rup]}
 Bazzi: {s: [ara]}
 Bekele: {s: [amh]}
 Bekker: {s: [afr]}
 Belhocine: {s: [ara]}
 Belkacem: {s: [ara]}
 Belkadi: {s: [ara]}
+Ben Brahim: {s: [ara]}
+Ben Yahia: {s: [ara]}
 Benaldjla: {s: [ara]}
 Benayoun: {s: [ara]}
-Ben Brahim: {s: [ara]}
 Benguigui: {s: [ara]}
 Bennouna: {s: [ara]}
 Bensaïd: {s: [ara]}
 Bensoussan: {s: [ara]}
-Ben Yahia: {s: [ara]}
 Benyamina: {s: [ara]}
+Berberian: {s: [arm]}
 Berhanu: {s: [amh]}
 Bettayeb: {s: [ara]}
 Bezabeh: {s: [amh]}
@@ -53,6 +68,7 @@ Blaauw: {s: [afr]}
 Blignault: {s: [afr]}
 Blignaut: {s: [afr]}
 Blomkamp: {s: [afr]}
+Boghossian: {s: [arm]}
 Booi: {s: [afr]}
 Booysen: {s: [afr]}
 Boshoff: {s: [afr]}
@@ -66,6 +82,7 @@ Boulos: {s: [ara]}
 Boushaki: {s: [ara]}
 Boustani: {s: [ara]}
 Bouzidi: {s: [ara]}
+Boyajian: {s: [arm]}
 Brahim: {s: [ara]}
 Breytenbach: {s: [afr]}
 Bseiso: {s: [ara]}
@@ -73,19 +90,3 @@ Bukhari: {s: [ara]}
 Burger: {s: [afr]}
 Burhan: {s: [ara]}
 Buys: {s: [afr]}
-Babadzhanian: {s: [arm]}
-Babayan: {s: [arm]}
-Badalyan: {s: [arm]}
-Baghdasarian: {s: [arm]}
-Baghramian: {s: [arm]}
-Bagramian: {s: [arm]}
-Bagramyan: {s: [arm]}
-Bajakian: {s: [arm]}
-Balakian: {s: [arm]}
-Baronian: {s: [arm]}
-Barsamian: {s: [arm]}
-Barsamyan: {s: [arm]}
-Barseghyan: {s: [arm]}
-Berberian: {s: [arm]}
-Boghossian: {s: [arm]}
-Boyajian: {s: [arm]}
