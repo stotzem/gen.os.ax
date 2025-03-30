@@ -1,13 +1,13 @@
-Baba: {s: [ara]}
 Babadzhanian: {s: [arm]}
+Baba: {s: [ara]}
 Babayan: {s: [arm]}
 Badalyan: {s: [arm]}
 Badat: {s: [ara]}
 Badawi: {s: [ara]}
 Badenhorst: {s: [afr]}
 Badir: {s: [ara]}
-Badr: {s: [ara]}
 Badri: {s: [ara]}
+Badr: {s: [ara]}
 Baghdadi: {s: [ara]}
 Baghdasarian: {s: [arm]}
 Baghramian: {s: [arm]}
@@ -33,6 +33,7 @@ Baronian: {s: [arm]}
 Barsamian: {s: [arm]}
 Barsamyan: {s: [arm]}
 Barseghyan: {s: [arm]}
+Barua: {s: [asm]}
 Barzegar: {s: [ara]}
 Bashar: {s: [ara]}
 Bashir: {s: [ara]}
@@ -47,19 +48,21 @@ Bekker: {s: [afr]}
 Belhocine: {s: [ara]}
 Belkacem: {s: [ara]}
 Belkadi: {s: [ara]}
-Ben Brahim: {s: [ara]}
-Ben Yahia: {s: [ara]}
 Benaldjla: {s: [ara]}
 Benayoun: {s: [ara]}
+Ben Brahim: {s: [ara]}
 Benguigui: {s: [ara]}
 Bennouna: {s: [ara]}
 Bensaïd: {s: [ara]}
 Bensoussan: {s: [ara]}
+Ben Yahia: {s: [ara]}
 Benyamina: {s: [ara]}
 Berberian: {s: [arm]}
 Berhanu: {s: [amh]}
 Bettayeb: {s: [ara]}
 Bezabeh: {s: [amh]}
+Bharali: {s: [asm]}
+Bhattacharya: {s: [asm]}
 Bikila: {s: [amh]}
 Bilal: {s: [ara]}
 Bin Ibrahim: {s: [ara]}
@@ -71,6 +74,13 @@ Blomkamp: {s: [afr]}
 Boghossian: {s: [arm]}
 Booi: {s: [afr]}
 Booysen: {s: [afr]}
+Bora: {s: [asm]}
+Borborua: {s: [asm]}
+Bordoloi: {s: [asm]}
+Borgohain: {s: [asm]}
+Borpatragohain: {s: [asm]}
+Borphukan: {s: [asm]}
+Borthakur: {s: [asm]}
 Boshoff: {s: [afr]}
 Bosman: {s: [afr]}
 Botha: {s: [afr]}
@@ -88,5 +98,6 @@ Breytenbach: {s: [afr]}
 Bseiso: {s: [ara]}
 Bukhari: {s: [ara]}
 Burger: {s: [afr]}
+Burhagohain: {s: [asm]}
 Burhan: {s: [ara]}
 Buys: {s: [afr]}

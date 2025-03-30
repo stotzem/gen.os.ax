@@ -14,9 +14,11 @@ Safrastyan: {s: [arm]}
 Sahakian: {s: [arm]}
 Saharanpuri: {s: [ara]}
 Sahrawi: {s: [ara]}
+Saʽid: {s: [ara]}
 Saidi: {s: [ara]}
 Saif: {s: [ara]}
 Saifullah: {s: [ara]}
+Saikia: {s: [asm]}
 Sajjad: {s: [ara]}
 Sakka: {s: [ara]}
 Salah: {s: [ara]}
@@ -31,6 +33,7 @@ Samih: {s: [ara]}
 Samiya: {s: [ara]}
 Saqr: {s: [ara]}
 Sarafian: {s: [arm]}
+Sârbu: {s: [rup]}
 Sargsian: {s: [arm]}
 Sargsyan: {s: [arm]}
 Sarkisian: {s: [arm]}
@@ -41,7 +44,6 @@ Sawalha: {s: [ara]}
 Sayegh: {s: [ara]}
 Sayyar: {s: [ara]}
 Sayyid: {s: [ara]}
-Saʽid: {s: [ara]}
 Scheepers: {s: [afr]}
 Schoeman: {s: [afr]}
 Schoenmaker: {s: [afr]}
@@ -50,8 +52,8 @@ Schutte: {s: [afr]}
 Sedrakyan: {s: [arm]}
 Sehnaoui: {s: [ara]}
 Sfeir: {s: [ara]}
-Shaar: {s: [ara]}
 Shaarawy: {s: [ara]}
+Shaar: {s: [ara]}
 Shaath: {s: [ara]}
 Shaban: {s: [ara]}
 Shafiq: {s: [ara]}
@@ -66,6 +68,7 @@ Shams: {s: [ara]}
 Shanab: {s: [ara]}
 Sharifi: {s: [ara]}
 Shariq: {s: [ara]}
+Sharma: {s: [asm]}
 Sharqiyin: {s: [ara]}
 Shaumyan: {s: [arm]}
 Shawkat: {s: [ara]}
@@ -107,4 +110,3 @@ Sultan: {s: [ara]}
 Swanepoel: {s: [afr]}
 Swart: {s: [afr]}
 Swelim: {s: [ara]}
-Sârbu: {s: [rup]}
