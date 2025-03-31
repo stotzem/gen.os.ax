@@ -1,6 +1,8 @@
 Yacine: {s: [ara]}
+Yacoubian: {s: [arm]}
 Yafai: {s: [ara]}
 Yaghi: {s: [ara]}
+Yaghjian: {s: [arm]}
 Yahya: {s: [ara]}
 Yaiche: {s: [ara]}
 Yaisien: {s: [ara]}
@@ -9,13 +11,10 @@ Yammine: {s: [ara]}
 Yaseen: {s: [ara]}
 Yasin: {s: [ara]}
 Yasser: {s: [ara]}
-Yassine: {s: [ara]}
 Yassin: {s: [ara]}
+Yassine: {s: [ara]}
 Yatim: {s: [ara]}
 Yaziji: {s: [ara]}
-Yusuf: {s: [ara]}
-Yacoubian: {s: [arm]}
-Yaghjian: {s: [arm]}
 Yedigaryan: {s: [arm]}
 Yeghiazaryan: {s: [arm]}
 Yengibaryan: {s: [arm]}
@@ -24,3 +23,5 @@ Yepremyan: {s: [arm]}
 Yeremyan: {s: [arm]}
 Yeritsyan: {s: [arm]}
 Yesayan: {s: [arm]}
+Yunusov: {s: [aze]}
+Yusuf: {s: [ara]}

@@ -1,6 +1,7 @@
 Daba: {s: [amh]}
 Dabbagh: {s: [ara]}
 Dabbas: {s: [ara]}
+Dadashov: {s: [aze]}
 Dahdah: {s: [ara]}
 Daivari: {s: [ara]}
 Dalaloyan: {s: [arm]}
@@ -18,15 +19,20 @@ Dawit: {s: [amh]}
 Dawoud: {s: [ara]}
 de Beer: {s: [afr]}
 de Bruyn: {s: [afr]}
-Degenaar: {s: [afr]}
-Dehlavi: {s: [ara]}
 de Jager: {s: [afr]}
-Dejene: {s: [amh]}
 de Jongh: {s: [afr]}
 de Klerk: {s: [afr]}
 de Kock: {s: [afr]}
 de Kok: {s: [afr]}
 de Lange: {s: [afr]}
+de Villiers: {s: [afr]}
+de Vink: {s: [afr]}
+de Vries: {s: [afr]}
+de Waal: {s: [afr]}
+de Wet: {s: [afr]}
+Degenaar: {s: [afr]}
+Dehlavi: {s: [ara]}
+Dejene: {s: [amh]}
 Demirchyan: {s: [arm]}
 Demissie: {s: [amh]}
 Derderian: {s: [arm]}
@@ -35,23 +41,18 @@ Deriba: {s: [amh]}
 Desalegn: {s: [amh]}
 Desta: {s: [amh]}
 Deukmejian: {s: [arm]}
-de Villiers: {s: [afr]}
-de Vink: {s: [afr]}
 Devos: {s: [afr]}
-de Vries: {s: [afr]}
-de Waal: {s: [afr]}
-de Wet: {s: [afr]}
 Diab: {s: [ara]}
 Diamanti: {s: [rup]}
 Didouche: {s: [ara]}
 Dikranian: {s: [arm]}
 Din: {s: [ara]}
 Djuvara: {s: [rup]}
-Dudin: {s: [ara]}
-Duiker: {s: [afr]}
 du Plessis: {s: [afr]}
 du Preez: {s: [afr]}
-Durian: {s: [arm]}
 du Toit: {s: [afr]}
+Dudin: {s: [ara]}
+Duiker: {s: [afr]}
+Durian: {s: [arm]}
 Dutta: {s: [asm]}
 Dziri: {s: [ara]}

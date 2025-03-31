@@ -1,15 +1,17 @@
-Babadzhanian: {s: [arm]}
 Baba: {s: [ara]}
+Babadzhanian: {s: [arm]}
 Babayan: {s: [arm]}
+Babayev: {s: [aze]}
 Badalyan: {s: [arm]}
 Badat: {s: [ara]}
 Badawi: {s: [ara]}
 Badenhorst: {s: [afr]}
 Badir: {s: [ara]}
-Badri: {s: [ara]}
 Badr: {s: [ara]}
+Badri: {s: [ara]}
 Baghdadi: {s: [ara]}
 Baghdasarian: {s: [arm]}
+Baghirov: {s: [aze]}
 Baghramian: {s: [arm]}
 Bagramian: {s: [arm]}
 Bagramyan: {s: [arm]}
@@ -17,6 +19,7 @@ Baha: {s: [ara]}
 Bahij: {s: [ara]}
 Bahjat: {s: [ara]}
 Bahri: {s: [ara]}
+Bairamov: {s: [aze]}
 Bajakian: {s: [arm]}
 Bakir: {s: [ara]}
 Bakkal: {s: [ara]}
@@ -48,14 +51,14 @@ Bekker: {s: [afr]}
 Belhocine: {s: [ara]}
 Belkacem: {s: [ara]}
 Belkadi: {s: [ara]}
+Ben Brahim: {s: [ara]}
+Ben Yahia: {s: [ara]}
 Benaldjla: {s: [ara]}
 Benayoun: {s: [ara]}
-Ben Brahim: {s: [ara]}
 Benguigui: {s: [ara]}
 Bennouna: {s: [ara]}
 Bensaïd: {s: [ara]}
 Bensoussan: {s: [ara]}
-Ben Yahia: {s: [ara]}
 Benyamina: {s: [ara]}
 Berberian: {s: [arm]}
 Berhanu: {s: [amh]}
@@ -101,3 +104,4 @@ Burger: {s: [afr]}
 Burhagohain: {s: [asm]}
 Burhan: {s: [ara]}
 Buys: {s: [afr]}
+Bülbül: {s: [aze]}

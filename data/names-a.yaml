@@ -4,6 +4,7 @@ Abargil: {s: [ara]}
 Abaza: {s: [ara]}
 Abbar: {s: [ara]}
 Abbas: {s: [ara]}
+Abbasov: {s: [aze]}
 Abboud: {s: [ara]}
 Abd Manaf: {s: [ara]}
 Abd al-Nur: {s: [ara]}
@@ -11,7 +12,12 @@ Abdeel: {s: [ara]}
 Abdi: {s: [ara]}
 Abdul Samad: {s: [ara]}
 Abdul: {s: [ara]}
+Abdulayev: {s: [aze]}
+Abdulin: {s: [aze]}
 Abdullah: {s: [ara]}
+Abdullayev: {s: [aze]}
+Abdullayeva: {s: [aze]}
+Abdulov: {s: [aze]}
 Abebe: {s: [amh]}
 Abelyan: {s: [arm]}
 Abera: {s: [amh]}
@@ -22,6 +28,7 @@ Abidin: {s: [ara]}
 Abiha: {s: [ara]}
 Abitbol: {s: [ara]}
 Abiteboul: {s: [ara]}
+Abiyev: {s: [aze]}
 Aboutaleb: {s: [ara]}
 Abouzeid: {s: [ara]}
 Abrahamyan: {s: [arm]}
@@ -39,20 +46,25 @@ Adila: {s: [ara]}
 Adli: {s: [ara]}
 Adnan: {s: [ara]}
 Adriaanse: {s: [afr]}
+Afandiyev: {s: [aze]}
 Afif: {s: [ara]}
 Agajanian: {s: [arm]}
 Aganbegyan: {s: [arm]}
 Agemian: {s: [arm]}
 Aghajanyan: {s: [arm]}
+Aghayev: {s: [aze]}
 Ahad: {s: [ara]}
 Aharonyan: {s: [arm]}
 Ahmad: {s: [ara]}
 Ahmadi: {s: [ara]}
+Ahmadov: {s: [aze]}
 Ahmar: {s: [ara]}
 Ahsan: {s: [ara]}
 Ajami: {s: [ara]}
 Ajda: {s: [ara]}
 Ajemian: {s: [arm]}
+Akhmedov: {s: [aze]}
+Akhundzade: {s: [aze]}
 Akif: {s: [ara]}
 Akkad: {s: [ara]}
 Akram: {s: [ara]}
@@ -144,7 +156,9 @@ Al-Zawahiri: {s: [ara]}
 Al-Zayani: {s: [ara]}
 Al-Zoubi: {s: [ara]}
 Alai: {s: [ara]}
+Alakbarov: {s: [aze]}
 Alam: {s: [ara]}
+Alasgarov: {s: [aze]}
 Alavi: {s: [ara]}
 Alberts: {s: [afr]}
 Albertyn: {s: [afr]}
@@ -152,12 +166,17 @@ Aleksanyan: {s: [arm]}
 Alemayehu: {s: [amh]}
 Alemu: {s: [amh]}
 Ali: {s: [ara]}
+Alikhanov: {s: [aze]}
 Alim: {s: [ara]}
+Aliyev: {s: [aze]}
+Alizadeh: {s: [aze]}
 Allaf: {s: [ara]}
+Allahverdiyev: {s: [aze]}
 Altaf: {s: [ara]}
 Altounyan: {s: [arm]}
 Ambartsumian: {s: [arm]}
 Amir: {s: [ara]}
+Amirjanov: {s: [aze]}
 Ammar: {s: [ara]}
 Amr: {s: [ara]}
 Amrani: {s: [ara]}
@@ -166,6 +185,7 @@ Andonian: {s: [arm]}
 Andreasyan: {s: [arm]}
 Anwar: {s: [ara]}
 Apcar: {s: [arm]}
+Arablinski: {s: [aze]}
 Arafi: {s: [ara]}
 Araiji: {s: [ara]}
 Arakelyan: {s: [arm]}
@@ -183,15 +203,20 @@ Arzumanyan: {s: [arm]}
 As'ad: {s: [ara]}
 As-Suwaidi: {s: [ara]}
 Asad: {s: [ara]}
+Asadov: {s: [aze]}
 Asatryan: {s: [arm]}
 Asem: {s: [ara]}
 Asfaw: {s: [amh]}
+Asgarov: {s: [aze]}
 Ashenafi: {s: [amh]}
 Ashhad: {s: [ara]}
 Ashour: {s: [ara]}
 Ashrafyan: {s: [arm]}
+Ashurly: {s: [aze]}
+Askarov: {s: [aze]}
 Aslam: {s: [ara]}
 Aslanian: {s: [arm]}
+Aslanov: {s: [aze]}
 Aslanyan: {s: [arm]}
 Asmar: {s: [ara]}
 Asratyan: {s: [arm]}
@@ -199,6 +224,7 @@ Assan: {s: [ara]}
 Assefa: {s: [amh]}
 Assemani: {s: [ara]}
 Ata: {s: [ara]}
+Atakishiyev: {s: [aze]}
 Atanasescu: {s: [rup]}
 Atashi: {s: [ara]}
 Atassi: {s: [ara]}
