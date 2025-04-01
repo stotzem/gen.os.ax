@@ -21,6 +21,8 @@ Bahjat: {s: [ara]}
 Bahri: {s: [ara]}
 Bairamov: {s: [aze]}
 Bajakian: {s: [arm]}
+Bajrami: {s: [sqi]}
+Bakalli: {s: [sqi]}
 Bakir: {s: [ara]}
 Bakkal: {s: [ara]}
 Bakkes: {s: [afr]}
@@ -28,6 +30,7 @@ Balakian: {s: [arm]}
 Balcha: {s: [amh]}
 Barad: {s: [ara]}
 Barakat: {s: [ara]}
+Bardhyl: {s: [sqi]}
 Barghouti: {s: [ara]}
 Barjas: {s: [ara]}
 Barmada: {s: [ara]}
@@ -38,6 +41,7 @@ Barsamyan: {s: [arm]}
 Barseghyan: {s: [arm]}
 Barua: {s: [asm]}
 Barzegar: {s: [ara]}
+Basha: {s: [sqi]}
 Bashar: {s: [ara]}
 Bashir: {s: [ara]}
 Basma: {s: [ara]}
@@ -51,6 +55,7 @@ Bekker: {s: [afr]}
 Belhocine: {s: [ara]}
 Belkacem: {s: [ara]}
 Belkadi: {s: [ara]}
+Belushi: {s: [sqi]}
 Ben Brahim: {s: [ara]}
 Ben Yahia: {s: [ara]}
 Benaldjla: {s: [ara]}
@@ -60,8 +65,10 @@ Bennouna: {s: [ara]}
 Bensaïd: {s: [ara]}
 Bensoussan: {s: [ara]}
 Benyamina: {s: [ara]}
+Beqiri: {s: [sqi]}
 Berberian: {s: [arm]}
 Berhanu: {s: [amh]}
+Berisha: {s: [sqi]}
 Bettayeb: {s: [ara]}
 Bezabeh: {s: [amh]}
 Bharali: {s: [asm]}
@@ -74,7 +81,9 @@ Blaauw: {s: [afr]}
 Blignault: {s: [afr]}
 Blignaut: {s: [afr]}
 Blomkamp: {s: [afr]}
+Bogdani: {s: [sqi]}
 Boghossian: {s: [arm]}
+Bojaxhiu: {s: [sqi]}
 Booi: {s: [afr]}
 Booysen: {s: [afr]}
 Bora: {s: [asm]}
@@ -104,4 +113,5 @@ Burger: {s: [afr]}
 Burhagohain: {s: [asm]}
 Burhan: {s: [ara]}
 Buys: {s: [afr]}
+Bytyqi: {s: [sqi]}
 Bülbül: {s: [aze]}

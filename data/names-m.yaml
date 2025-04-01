@@ -16,6 +16,7 @@ Majidi: {s: [ara]}
 Majrashi: {s: [ara]}
 Makhamra: {s: [ara]}
 Makhloufi: {s: [ara]}
+Malaj: {s: [sqi]}
 Malan: {s: [afr]}
 Malas: {s: [ara]}
 Maleh: {s: [ara]}
@@ -23,6 +24,7 @@ Malek: {s: [ara]}
 Malherbe: {s: [afr]}
 Malikov: {s: [aze]}
 Malikova: {s: [aze]}
+Maliqi: {s: [sqi]}
 Malki: {s: [ara]}
 Malyan: {s: [arm]}
 Mamani: {s: [ayc]}
@@ -34,6 +36,7 @@ Mammadbeyov: {s: [aze]}
 Mammadov: {s: [aze]}
 Mammadova: {s: [aze]}
 Mammadzade: {s: [aze]}
+Manaj: {s: [sqi]}
 Manar: {s: [ara]}
 Manasyan: {s: [arm]}
 Mandela: {s: [afr]}
@@ -54,8 +57,10 @@ Mardikian: {s: [arm]}
 Marei: {s: [ara]}
 Margaryan: {s: [arm]}
 Margossian: {s: [arm]}
+Markaj: {s: [sqi]}
 Markarian: {s: [arm]}
 Markosyan: {s: [arm]}
+Marku: {s: [sqi]}
 Martirosyan: {s: [arm]}
 Marwan: {s: [ara]}
 Marwazi: {s: [ara]}
@@ -69,6 +74,7 @@ Masud: {s: [ara]}
 Matevosyan: {s: [arm]}
 Mathlouthi: {s: [ara]}
 Matossian: {s: [arm]}
+Matranga: {s: [sqi]}
 Mazmanyan: {s: [arm]}
 Mbeki: {s: [afr]}
 Mebarek: {s: [ara]}
@@ -76,6 +82,7 @@ Meftah: {s: [ara]}
 Mehari: {s: [amh]}
 Mehdiyev: {s: [aze]}
 Mehdiyeva: {s: [aze]}
+Mehmeti: {s: [sqi]}
 Meintjes: {s: [afr]}
 Meiring: {s: [afr]}
 Mekonnen: {s: [amh]}
@@ -88,6 +95,7 @@ Mengistu: {s: [amh]}
 Merga: {s: [amh]}
 Meseret: {s: [amh]}
 Mesfin: {s: [amh]}
+Meta: {s: [sqi]}
 Mezali: {s: [ara]}
 Miftah: {s: [ara]}
 Mikaelyan: {s: [arm]}
@@ -102,11 +110,13 @@ Mkrtchyan: {s: [arm]}
 Mnatsakanyan: {s: [arm]}
 Moeen: {s: [ara]}
 Moges: {s: [amh]}
+Moisiu: {s: [sqi]}
 Mokhtarian: {s: [arm]}
 Mokrani: {s: [ara]}
 Momberg: {s: [afr]}
 Moneim: {s: [ara]}
 Moolman: {s: [afr]}
+Morina: {s: [sqi]}
 Morkel: {s: [afr]}
 Mosa: {s: [ara]}
 Mostert: {s: [afr]}
@@ -120,6 +130,7 @@ Mughrabi: {s: [ara]}
 Muhammad: {s: [ara]}
 Muhsin: {s: [ara]}
 Mujtaba: {s: [ara]}
+Muka: {s: [sqi]}
 Mukhtar: {s: [ara]}
 Mukuchyan: {s: [arm]}
 Mulder: {s: [afr]}
@@ -127,9 +138,12 @@ Mulugeta: {s: [amh]}
 Munir: {s: [ara]}
 Murad: {s: [ara]}
 Muradyan: {s: [arm]}
+Murati: {s: [sqi]}
 Murr: {s: [ara]}
 Musallam: {s: [ara]}
 Musayev: {s: [aze]}
 Mustafa: {s: [ara, aze]}
 Mustafayev: {s: [aze]}
+Muça: {s: [sqi]}
+Muçolli: {s: [sqi]}
 Mzali: {s: [ara]}

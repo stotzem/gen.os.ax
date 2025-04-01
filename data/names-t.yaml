@@ -6,6 +6,7 @@ Tafazzoli: {s: [ara]}
 Taghiyev: {s: [aze]}
 Taha: {s: [ara]}
 Taher: {s: [ara]}
+Tahiri: {s: [sqi]}
 Tahouni: {s: [ara]}
 Taieb: {s: [ara]}
 Takla: {s: [ara]}
@@ -18,6 +19,7 @@ Tamrat: {s: [amh]}
 Tamraz: {s: [ara]}
 Tankian: {s: [arm]}
 Tantawi: {s: [ara]}
+Tanush: {s: [sqi]}
 Taqi: {s: [ara]}
 Tarba: {s: [abk]}
 Tariku: {s: [amh]}
@@ -31,6 +33,7 @@ Taye: {s: [amh]}
 Tayeb: {s: [ara]}
 Tayfur: {s: [ara]}
 Tchividjian: {s: [arm]}
+Teliti: {s: [sqi]}
 Temirkhan: {s: [aze]}
 Ter-Grigoryan: {s: [arm]}
 Ter-Grigoryants: {s: [arm]}
@@ -40,7 +43,9 @@ Terzian: {s: [arm]}
 Tesfamariam: {s: [amh]}
 Tesfaye: {s: [amh]}
 Teshome: {s: [amh]}
+Thanas: {s: [sqi]}
 Tharwat: {s: [ara]}
+Thaçi: {s: [sqi]}
 Theron: {s: [afr]}
 Theunissen: {s: [afr]}
 Theuns: {s: [afr]}
@@ -53,9 +58,11 @@ Tirmizi: {s: [ara]}
 Tohme: {s: [ara]}
 Tola: {s: [amh]}
 Tonoyan: {s: [arm]}
+Topulli: {s: [sqi]}
 Torosyan: {s: [arm]}
 Tourian: {s: [arm]}
 Tovmasyan: {s: [arm]}
+Toçi: {s: [sqi]}
 Trabelsi: {s: [ara]}
 Tsarukyan: {s: [arm]}
 Tsaturyan: {s: [arm]}

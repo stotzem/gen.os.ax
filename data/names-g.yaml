@@ -5,6 +5,7 @@ Gadzhiyev: {s: [aze]}
 Gambarov: {s: [aze]}
 Gamil: {s: [ara]}
 Garayev: {s: [aze]}
+Gashi: {s: [sqi]}
 Gashimov: {s: [aze]}
 Gasimov: {s: [aze]}
 Gasparyan: {s: [arm]}
@@ -41,6 +42,17 @@ Gilani: {s: [ara]}
 Giragossian: {s: [arm]}
 Girgis: {s: [ara]}
 Girma: {s: [amh]}
+Gjata: {s: [sqi]}
+Gjebrea: {s: [sqi]}
+Gjergji: {s: [sqi]}
+Gjin: {s: [sqi]}
+Gjinali: {s: [sqi]}
+Gjoka: {s: [sqi]}
+Gjokaj: {s: [sqi]}
+Gjon: {s: [sqi]}
+Gjonaj: {s: [sqi]}
+Gjonbalaj: {s: [sqi]}
+Goga: {s: [sqi]}
 Gogoi: {s: [asm]}
 Goosen: {s: [afr]}
 Goswami: {s: [asm]}
@@ -52,4 +64,5 @@ Grobbelaar: {s: [afr]}
 Grové: {s: [afr]}
 Gulbenkian: {s: [arm]}
 Guliyev: {s: [aze]}
+Gurakuqi: {s: [sqi]}
 Gyokchyan: {s: [arm]}
