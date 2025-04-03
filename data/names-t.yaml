@@ -1,4 +1,5 @@
 Tabbara: {s: [ara]}
+Taberner: {s: [cat]}
 Tabet: {s: [ara]}
 Tadesse: {s: [amh]}
 Tafa: {s: [amh]}
@@ -26,6 +27,7 @@ Tariku: {s: [amh]}
 Tariq: {s: [ara]}
 Tarkanian: {s: [arm]}
 Taskin: {s: [ara, aze]}
+Tauler: {s: [cat]}
 Tavakkoli: {s: [ara]}
 Tavitian: {s: [arm]}
 Tawfik: {s: [ara]}
@@ -33,6 +35,8 @@ Taye: {s: [amh]}
 Tayeb: {s: [ara]}
 Tayfur: {s: [ara]}
 Tchividjian: {s: [arm]}
+Teixidor: {s: [cat]}
+Teixidó: {s: [cat]}
 Teliti: {s: [sqi]}
 Temirkhan: {s: [aze]}
 Ter-Grigoryan: {s: [arm]}
@@ -72,6 +76,7 @@ Tufa: {s: [amh]}
 Tumasyan: {s: [arm]}
 Tunaij: {s: [ara]}
 Tunçboyacıyan: {s: [arm]}
+Tura: {s: [cat]}
 Turki: {s: [ara]}
 Tutunjian: {s: [arm]}
 Twal: {s: [ara]}
